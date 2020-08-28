@@ -8,6 +8,7 @@
 </head>
 <body>
 Hello JSP!
-これは Github 上のデータです。
+これは Github 上のデータです。<br />
+文字列追記
 </body>
 </html>
